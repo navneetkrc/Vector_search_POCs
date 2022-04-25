@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/navneetkrc/">
-  <img align="left" alt="Subir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Navneet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=navneetkrc.navneetkrc)
